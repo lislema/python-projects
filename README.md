@@ -1,4 +1,5 @@
 # python-projects
+A whole bunch of Python projects i created for different purposes 
 
 ## Projects
 
