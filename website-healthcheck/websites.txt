@@ -1,0 +1,5 @@
+https://datalab.onyxia-azure.ecdp.tech.ec.europa.eu/
+https://datalab.onyxia-agnostic.ecdp.tech.ec.europa.eu/
+https://portal.cloud-agnostic.ecdp.tech.ec.europa.eu/account
+https://portal.eurostat.datalab.ecdp.tech.ec.europa.eu/
+https://esurveillance.ec.europa.eu/product_safety/home
